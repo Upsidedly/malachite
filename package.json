@@ -1,0 +1,21 @@
+{
+  "name": "@upsided/malachite",
+  "version": "1.0.0",
+  "description": "Utilities for the alexandrite library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "utils",
+    "upsided",
+    "discord"
+  ],
+  "author": "upsided",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^17.0.35",
+    "discord.js": "^13.7.0"
+  }
+}
